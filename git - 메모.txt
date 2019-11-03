@@ -1,0 +1,9 @@
+C:\Users\김동균\source\repos\Study_C
+
+https://github.com/nabilera1/basic.git
+
+git push
+
+git pull  
+
+https://www.youtube.com/watch?v=AzVC30b6qLc

@@ -1,0 +1,13 @@
+학습자료
+C:\Users\김동균\source\repos\Study_C\
+에버노트 아래 주소
+https://www.evernote.com/l/AU_GDsDhO6VHp7Ul00tqepFr9DJiN6YfPTs/
+[안동대학교 사범대학 C언어 강의]
+
+
+정리할 것
+파워포인트 자료와 소스코드 일치시키기
+
+
+
+
