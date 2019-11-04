@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lecture0001", "lecture0001\lecture0001.vcxproj", "{EED25995-3F4E-4F2D-B846-B78A4B4879B7}"
 EndProject
@@ -197,6 +197,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "강의 인쇄 자료", "강
 	ProjectSection(SolutionItems) = preProject
 		lecture.txt = lecture.txt
 	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sort_Quick", "Sort_Quick\Sort_Quick.vcxproj", "{21BA11BE-9085-44EB-B20A-E9EEF8CD45CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1058,6 +1060,16 @@ Global
 		{F91FF82B-788A-4B85-91C5-F8B62C5DF5E8}.Release|x64.Build.0 = Release|x64
 		{F91FF82B-788A-4B85-91C5-F8B62C5DF5E8}.Release|x86.ActiveCfg = Release|Win32
 		{F91FF82B-788A-4B85-91C5-F8B62C5DF5E8}.Release|x86.Build.0 = Release|Win32
+		{21BA11BE-9085-44EB-B20A-E9EEF8CD45CE}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{21BA11BE-9085-44EB-B20A-E9EEF8CD45CE}.Debug|x64.ActiveCfg = Debug|x64
+		{21BA11BE-9085-44EB-B20A-E9EEF8CD45CE}.Debug|x64.Build.0 = Debug|x64
+		{21BA11BE-9085-44EB-B20A-E9EEF8CD45CE}.Debug|x86.ActiveCfg = Debug|Win32
+		{21BA11BE-9085-44EB-B20A-E9EEF8CD45CE}.Debug|x86.Build.0 = Debug|Win32
+		{21BA11BE-9085-44EB-B20A-E9EEF8CD45CE}.Release|Any CPU.ActiveCfg = Release|Win32
+		{21BA11BE-9085-44EB-B20A-E9EEF8CD45CE}.Release|x64.ActiveCfg = Release|x64
+		{21BA11BE-9085-44EB-B20A-E9EEF8CD45CE}.Release|x64.Build.0 = Release|x64
+		{21BA11BE-9085-44EB-B20A-E9EEF8CD45CE}.Release|x86.ActiveCfg = Release|Win32
+		{21BA11BE-9085-44EB-B20A-E9EEF8CD45CE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1148,6 +1160,7 @@ Global
 		{775E84ED-DD33-4D78-BF06-5A07520120BB} = {34BB60B7-87D4-4E05-A65C-101990A29C13}
 		{45A59997-0BFB-46E9-8E4C-3441233D51B7} = {34BB60B7-87D4-4E05-A65C-101990A29C13}
 		{F91FF82B-788A-4B85-91C5-F8B62C5DF5E8} = {34BB60B7-87D4-4E05-A65C-101990A29C13}
+		{21BA11BE-9085-44EB-B20A-E9EEF8CD45CE} = {EAFF6DD9-68D6-46FC-B930-64334E6E1493}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2F41596F-1D2C-409A-A79C-594079EB7862}
