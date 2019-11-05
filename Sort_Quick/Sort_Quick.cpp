@@ -136,7 +136,7 @@ void CalcTime(void)
 void main()
 {
 	int i;
-
+	srand((unsigned int)time(NULL));
 	n = MAX_SIZE;
 	for (i = 0; i < n; i++)
 		original[i] = rand();
