@@ -47,19 +47,16 @@ node* find_node(int k)
 	return s;
 }
 
-int delete_node(int k)
-{
+int delete_node(int k){
 	node* s;
 	node* p;
 	p = head;
 	s = p->next;
-	while (s->key != k && s != tail)
-	{
+	while (s->key != k && s != tail)	{
 		p = p->next;
 		s = p->next;
 	}
-	if (s != tail)  /* if find */
-	{
+	if (s != tail) { /* if find */
 		p->next = s->next;
 		free(s);
 		return 1;
